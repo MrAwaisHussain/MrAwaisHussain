@@ -8,4 +8,4 @@ Dabbling in a few languages such as:
 - Javascript(Planning to check out TypeScript)
 - Python
 
-For projects and random ideas I plan to look at: Check out [Trello](https://trello.com/b/Yb3SqwAB/notcreative-development)
+For projects and random ideas I plan to look at: Check out [Board](https://app.gitkraken.com/glo/board/YCZ2qytKOgBi1D68)
