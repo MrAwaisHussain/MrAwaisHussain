@@ -5,7 +5,15 @@
 Dabbling in a few languages such as: 
 - Java
 - C
-- Javascript(Planning to check out TypeScript)
+- Javascript + HTML + CSS
 - Python
+
+Technologies
+- NodeJS
+- Git
+- Linux/Ubuntu Servers
+- NoSQL 
+- MySQL
+- MSSQL
 
 For projects and random ideas I plan to look at: Check out [Board](https://app.gitkraken.com/glo/board/YCZ2qytKOgBi1D68)
