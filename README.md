@@ -16,4 +16,3 @@ Technologies
 - MySQL
 - MSSQL
 
-For projects and random ideas I plan to look at: Check out [Board](https://app.gitkraken.com/glo/board/YCZ2qytKOgBi1D68)
